@@ -13,5 +13,5 @@ Git & GitHub
 🌐 Modern responsive websites
 ⚡ Smart systems and dashboards
 📫 Contact
-GitHub: owkevy GitHub
+GitHub: owkevy
 Email: owkevy007@gmail.com
