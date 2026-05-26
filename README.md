@@ -19,7 +19,7 @@ Email: owkevy007@gmail.com
 
 
 
-Linguagens e Tecnologias
+Languages ​​and Technologies
 
 <img 
     align="left" 
