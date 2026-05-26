@@ -1,17 +1,17 @@
-Olá, eu sou Kevy Eduardo
+i, I'm Kevy Eduardo
 
-💻 Desenvolvedor focado em tecnologia, inovação e criação de projetos modernos.
+💻 Developer focused on technology, innovation, and building modern digital projects.
 
-🚀 Tecnologias
+🚀 Technologies
 JavaScript
 React
 Tailwind CSS
 Node.js
 Git & GitHub
-📌 Projetos
-🔴 FLA — Plataforma de estabilidade bancária
-🌐 Sites modernos e responsivos
-⚡ Sistemas inteligentes e dashboards
-📫 Contato
+📌 Projects
+🔴 FLA — Banking stability platform
+🌐 Modern responsive websites
+⚡ Smart systems and dashboards
+📫 Contact
 GitHub: owkevy GitHub
 Email: owkevy007@gmail.com
