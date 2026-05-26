@@ -1,4 +1,4 @@
-Olá, eu sou Kevy
+Olá, eu sou Kevy Eduardo
 
 💻 Desenvolvedor focado em tecnologia, inovação e criação de projetos modernos.
 
