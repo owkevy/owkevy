@@ -13,7 +13,7 @@ JavaScript • React • Tailwind CSS • Git • GitHub • Python
 
 📫 Contact
 GitHub: owkevy
-Email: seuemail@gmail.com
+Email: owkevy007@gmail.com
 
 
 
